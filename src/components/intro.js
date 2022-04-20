@@ -7,21 +7,7 @@ export default function Intro() {
         brooke wages.
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-        Mechanical Engineer | Entrepreneur | Advocate for the Formerly Incarcerated | Walking in Christ{' '}
-        <a
-          href="https://www.gatsbyjs.com/"
-          className="underline hover:text-success duration-200 transition-colors"
-        >
-          Gatsby
-        </a>{' '}
-        and{' '}
-        <a
-          href="https://www.datocms.com/"
-          className="underline hover:text-success duration-200 transition-colors"
-        >
-          DatoCMS
-        </a>
-        .
+        Mechanical Engineer | Entrepreneur | Advocate for the Formerly Incarcerated | Walking in Christ
       </h4>
     </section>
   )
